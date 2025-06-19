@@ -1,7 +1,8 @@
-# LightShep 
+# LightShep A Playable Chess Engine on Lichess
+
 https://lichess.org/@/lightshepBOT
 
-fun AP CSA project for a chess engine that i'm improving 
+started as a fun AP CSA project :) but hoping to make it far far stronger 
 
 6/18/2025 
 
