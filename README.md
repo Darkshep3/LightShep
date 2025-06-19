@@ -1,4 +1,6 @@
-# LightShep
+# LightShep 
+https://lichess.org/@/lightshepBOT
+
 fun AP CSA project for a chess engine that i'm improving 
 
 6/18/2025 
