@@ -1,2 +1,2 @@
 # LightShep
-fun AP CSA project that I wanna improve
+fun AP CSA project for a chess engine that i'm improving 
